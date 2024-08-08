@@ -1,5 +1,18 @@
 # SvelteKit static blog starter
 
+<p align="left">
+  <img src="/static/images/jefferson-santos-fCEJGBzAkrU-unsplash.jpg" alt="Portrait of Yan" style="width:150px;"/>
+</p>
+
+Hi, I'm Yan.
+
+I specialize in helping companies and researchers analyze and visualize their datasets. I excel in **data visualization**. If you're looking for guidance on presenting your results or building complex interactive charts, I'm the expert you're seeking.
+
+With a solid 12-year track record in data science, I've collaborated with prestigious research institutes like the [University of Queensland](https://example.com) and leading private companies such as [Datadog](https://example.com).
+
+I am now working as a consultant and on my educational websites like [data-to-viz.com](https://example.com), [Productive R Workflow](https://example.com), and the [graph galleries](https://example.com).
+
+
 This starter contains everything you need to get up and running with
 [SvelteKit](https://kit.svelte.dev/) as a static site generator for your
 Markdown (and Svelte)-powered blog.
