@@ -5,6 +5,8 @@
 	const { title, excerpt, date, updated, coverImage, coverWidth, coverHeight, categories } =
 		data.meta;
 	const { PostContent } = data;
+
+	import Comments from '$lib/components/Comments.svelte'
 </script>
 
 <svelte:head>
@@ -60,3 +62,5 @@
 		</aside>
 	{/if}
 </article>
+
+<Comments />
