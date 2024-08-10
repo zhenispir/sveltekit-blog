@@ -4,6 +4,8 @@
   <img src="/static/images/jefferson-santos-fCEJGBzAkrU-unsplash.jpg" alt="Portrait of Yan" style="width:150px;"/>
 </p>
 
+әіңғүұұқө ӘІҢҒҮҰҚӨҺ
+
 Hi, I'm Yan.
 
 I specialize in helping companies and researchers analyze and visualize their datasets. I excel in **data visualization**. If you're looking for guidance on presenting your results or building complex interactive charts, I'm the expert you're seeking.

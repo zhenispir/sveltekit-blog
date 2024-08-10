@@ -37,3 +37,11 @@
 	font-style: normal;
 	font-weight: normal;
 }
+
+@font-face {
+	font-family: "Roboto Regular";
+	src: url('static/fonts/Roboto/Roboto-Regular.ttf'), format('ttf');
+	font-display: swap;
+	font-style: normal;
+	font-weight: normal;
+}
